@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-react-task/static/css/main.f1bf3630.chunk.css",
+    "main.js": "/test-react-task/static/js/main.a4150eab.chunk.js",
+    "main.js.map": "/test-react-task/static/js/main.a4150eab.chunk.js.map",
+    "runtime-main.js": "/test-react-task/static/js/runtime-main.eb4743c0.js",
+    "runtime-main.js.map": "/test-react-task/static/js/runtime-main.eb4743c0.js.map",
+    "static/js/2.3b34815b.chunk.js": "/test-react-task/static/js/2.3b34815b.chunk.js",
+    "static/js/2.3b34815b.chunk.js.map": "/test-react-task/static/js/2.3b34815b.chunk.js.map",
+    "static/js/3.bee04518.chunk.js": "/test-react-task/static/js/3.bee04518.chunk.js",
+    "static/js/3.bee04518.chunk.js.map": "/test-react-task/static/js/3.bee04518.chunk.js.map",
+    "index.html": "/test-react-task/index.html",
+    "static/css/main.f1bf3630.chunk.css.map": "/test-react-task/static/css/main.f1bf3630.chunk.css.map",
+    "static/js/2.3b34815b.chunk.js.LICENSE.txt": "/test-react-task/static/js/2.3b34815b.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/test-react-task/static/media/unsplash1.56534a0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb4743c0.js",
+    "static/js/2.3b34815b.chunk.js",
+    "static/css/main.f1bf3630.chunk.css",
+    "static/js/main.a4150eab.chunk.js"
+  ]
+}
